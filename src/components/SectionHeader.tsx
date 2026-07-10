@@ -1,0 +1,2 @@
+type Props={eyebrow?:string;title:string;text?:string};
+export default function SectionHeader({eyebrow,title,text}:Props){return <div className="text-center max-w-3xl mx-auto mb-12">{eyebrow&&<p className="text-[var(--mnb-gold)] font-bold uppercase tracking-[.2em]">{eyebrow}</p>}<h2 className="section-title text-3xl md:text-4xl mt-2">{title}</h2>{text&&<p className="mt-4 text-gray-600">{text}</p>}</div>}
