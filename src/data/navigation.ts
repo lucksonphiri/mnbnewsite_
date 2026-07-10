@@ -13,7 +13,7 @@ export const navItems=[
 
 {label:"Downloads",href:"/downloads",children:[{label:"Downloads",href:"/downloads"},{label:"Prospectus",href:"/downloads/prospectus"},{label:"Academic Calendar",href:"/downloads/calendars"}]},
 
-{label:"News",href:"/news"},
+{label:"Notifications",href:"/notificatins",children:[{label:"News",href:"/news"},{label:"Events",href:"/events"}]},
 
 {label:"Gallery",href:"/gallery",children:[{label:"Gallery",href:"/gallery"},{label:"Photos",href:"/gallery/photos"},{label:"Videos",href:"/gallery/videos"}]},
 
