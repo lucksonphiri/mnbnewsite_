@@ -32,11 +32,6 @@ export default function Page(){return <main>
   <h2 className="section-title text-3xl">Administration</h2>
   <p className="mt-4 text-gray-600 text-lg leading-8">The administration of MNB College is responsible for the day-to-day management of the institution. It is led by the Founders, Directors, Chief Director, Head of School, and various departmental heads. The administration ensures effective teaching and learning, student welfare, financial management, staff development, and the smooth running of all school activities.</p><br></br>
   
-  <h2 className="section-title text-3xl">Founders</h2>
-  <p className="mt-4 text-gray-600 text-lg leading-8">
-Mr. Brilliant Mbizi – Co-Founder and Director<br></br>
-Mr. Norrest Manonge – Co-Founder and Director<br></br>
-
 Head of School:
 Mr. Chiparamazani
 </p>
