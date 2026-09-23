@@ -7,12 +7,12 @@ export const chatbotFAQs = [
   {
     keywords: ["location", "address", "where"],
     answer:
-      "MNB College is located at No. 1 Warwick Road, Chegutu, Zimbabwe.",
+      "MNB College is located at Plot number 6 Corleinor Farm, Chegutu, Zimbabwe.",
   },
   {
     keywords: ["phone", "contact", "number", "call"],
     answer:
-      "You can contact MNB College on +263 78 728 2897 or email admin@mnb.ac.zw.",
+      "You can contact MNB College on +263 78 728 2897 or email enquiries@mnb.ac.zw.",
   },
   {
     keywords: ["boarding", "hostel", "accommodation"],
